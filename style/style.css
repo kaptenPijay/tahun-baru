@@ -10,7 +10,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   width: 100vw;
-  height: auto;
+  height: 100vh;
 }
 
 .letter {
